@@ -27,6 +27,7 @@
    </div>
 
   <div class="btns offset-3">
+<%if(curr && curr._id.equals(listing.owner._id)){%>
 
  <a href="/listings/<%=listing._id%>/edit" class="btn btn-danger">Edit</a> 
  <br> <br>
@@ -34,7 +35,7 @@
       <button class="btn btn-dark">Delete</button>
  </form>
 
-
+<%}%>
  <a href="/listings/<%=listing._id%>/booking" class="btn btn-success offset-4">Book Now</a> 
 
 </div>
