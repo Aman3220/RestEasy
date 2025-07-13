@@ -18,8 +18,10 @@ Enables users to read and write reviews for the hotel, providing feedback based 
 Displays the exact location of the hotel using an interactive map to assist users in navigating.  
 ![Map Location](assets/screenshots/Screenshot%202025-07-13%20214653.png)
 
-### Profile 
-[Profile](assets/screenshots/Screenshot%202025-07-13%20214353.png)                       
+### Profile  
+Displays the user’s profile details including personal info, listed hotels, and bookings.  
+![Profile](assets/screenshots/Screenshot%202025-07-13%20214353.png)
+              
 
 ### Booking Interface  
 Allows users to select dates, number of guests, and confirm hotel bookings easily.  
