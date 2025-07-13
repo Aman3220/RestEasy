@@ -19,7 +19,7 @@ Displays the exact location of the hotel using an interactive map to assist user
 ![Map Location](assets/screenshots/Screenshot%202025-07-13%20214653.png)
 
 ### Profile 
-[Map Location](assets/screenshots/Screenshot%202025-07-13%20214353.png)                       
+[Profile](assets/screenshots/Screenshot%202025-07-13%20214353.png)                       
 
 ### Booking Interface  
 Allows users to select dates, number of guests, and confirm hotel bookings easily.  
