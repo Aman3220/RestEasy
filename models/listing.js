@@ -14,7 +14,10 @@ let listingSchema= new Schema({
         url: String,
         filename: String
     },
-    price :Number,
+   price: {
+  type: Number,
+  min: [2001, "Price must be greater than 2000"]  // ✅ Enforce at DB level
+},
     location: String,
     country : String,
     reviews:[  //1 to n relationship between listing and revies
