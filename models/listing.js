@@ -16,7 +16,7 @@ let listingSchema= new Schema({
     },
    price: {
   type: Number,
-  min: [2001, "Price must be greater than 2000"]  // ✅ Enforce at DB level
+  min: 2000 
 },
     location: String,
     country : String,
