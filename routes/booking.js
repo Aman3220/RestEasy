@@ -12,7 +12,7 @@ const session= require("express-session");
 const flash= require("connect-flash");
 
 const sessionOptions= {
-    secret: "Ayush123!@#",
+    secret: "Aman123!@#",
     resave: false,
     saveUninitialized:true,
     cookie:{
