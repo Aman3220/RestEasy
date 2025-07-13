@@ -1,4 +1,4 @@
-## 📸 App Screenshots
+## App Screenshots
 
 Here are some of the main interfaces of the application, showcasing its core functionalities and user experience:
 
