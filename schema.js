@@ -4,7 +4,7 @@ module.exports.listingSchema =Joi.object(
     listing:Joi.object({
      title:Joi.string().required(),
      description:Joi.string().required(),
-     price:Joi.number().required().min(2000),
+      price: Joi.number().required().greater(2000),
      image:Joi.string().allow("",null),
      location:Joi.string().required(),
      country:Joi.string().required()
